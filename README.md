@@ -1,4 +1,3 @@
-````markdown
 # DEVI STUDIARE
 
 Screensaver fullscreen in Python/Pygame ispirato all'estetica dello spazio cinematografico e all'atmosfera di **2001: Odissea nello spazio**.
@@ -237,8 +236,3 @@ Il nome e i riferimenti a **2001: Odissea nello spazio** vengono utilizzati come
 Il progetto è pensato principalmente come screensaver/visualizzatore fullscreen personale.
 
 Per distribuire l'applicazione a terzi, assicurati di avere i diritti necessari sulla musica utilizzata in `soundtrack.ogg`, `soundtrack.wav`, `soundtrack.mp3` o nei file MIDI.
-
-```
-
-Non sono riuscito a generare il file `.md` scaricabile perché lo strumento per la creazione del file non è disponibile in questo momento.
-```
